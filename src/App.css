@@ -1,0 +1,21 @@
+.card-text{
+  display: flex;
+  font-size:1.5rem; 
+}
+
+.price-change{
+  background-color: green;
+  font-weight: bold;
+
+}
+.price-red{
+  background-color: red;
+}
+.card-title{
+  font-size: 3rem;
+}
+
+.price-container{
+  display: flex;
+  justify-content: space-between;
+}
